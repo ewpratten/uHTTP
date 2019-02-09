@@ -1,4 +1,6 @@
 # uHTTP
+An HTTP server written in BrainFuck
+
 Don't try this at home kids.
 
 ## Requirements
